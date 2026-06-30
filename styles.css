@@ -702,9 +702,6 @@ textarea {
 
   .map-card iframe {
     height: 320px;
-    .konten-teks {
-    position: relative;
-    z-index: 10; /* Angka lebih besar berarti berada di lapisan paling depan */
-
+    
   }
 }
